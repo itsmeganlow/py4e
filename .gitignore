@@ -1,0 +1,5 @@
+# Mac system files
+.DS_Store
+
+# Course sample code from py4e.com (not my own work, kept locally only)
+code3/
